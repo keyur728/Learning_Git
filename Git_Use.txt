@@ -1,1 +1,3 @@
 Learning how to use Git
+First Line Added
+Second Line Added
